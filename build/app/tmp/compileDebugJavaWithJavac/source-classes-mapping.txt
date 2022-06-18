@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/appiskey/dang/BuildConfig.java
+ com.appiskey.dang.BuildConfig
